@@ -173,8 +173,8 @@ if __name__=='__main__':
 
         
         elif 'who are you' or 'introduce' in query:
-            speak("I am DevFinwiz's Assistant")
-            print("I am DevFinwiz's Assistant")
+            speak("I am Pranav's Assistant")
+            print("I am Pranav's Assistant")
 
         
 
